@@ -1,0 +1,20 @@
+.DS_Store
+
+# Lean / Lake build output
+.lake
+.lake/
+build/
+*.olean
+*.ilean
+*.c
+
+# Local scratch
+tmp/
+scratch/
+
+# Manuscript artifacts belong in the separate paper workspace
+manuscript/
+paper/
+notes/
+*.pdf
+*.png

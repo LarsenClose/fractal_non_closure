@@ -1,0 +1,7 @@
+name = "fractal_non_closure"
+version = "0.1.0"
+defaultTargets = ["FractalNonClosure"]
+
+[[lean_lib]]
+name = "FractalNonClosure"
+
