@@ -3,6 +3,7 @@
 [![CI](https://github.com/LarsenClose/fractal_non_closure/actions/workflows/ci.yml/badge.svg)](https://github.com/LarsenClose/fractal_non_closure/actions/workflows/ci.yml)
 ![Lean](https://img.shields.io/badge/Lean-v4.31.0-blue)
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21272427.svg)](https://doi.org/10.5281/zenodo.21272427)
 
 Lean 4 formal core for the paper *Fractal Non-Closure*.
 
@@ -12,7 +13,11 @@ reading closes one level up to an invariant law state. The formal point is not
 that every such reading is substantively informative, but that lawfulness,
 closure, and retention of distinctions are separate requirements.
 
-The paper source is maintained separately from this Lean package.
+The paper source is maintained separately from this Lean package. The paper is
+archived at [doi:10.5281/zenodo.21272282](https://doi.org/10.5281/zenodo.21272282);
+this formalization is archived at
+[doi:10.5281/zenodo.21272427](https://doi.org/10.5281/zenodo.21272427). Citation
+metadata is in [`CITATION.cff`](CITATION.cff).
 
 ## Build
 

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite it as below."
+title: "Fractal Non-Closure: Lean 4 Formal Core"
+type: software
+authors:
+  - family-names: Close
+    given-names: Larsen James
+version: 0.1.0
+doi: 10.5281/zenodo.21272427
+date-released: 2026-07-08
+repository-code: "https://github.com/LarsenClose/fractal_non_closure"
+license: Apache-2.0
+references:
+  - type: article
+    title: "Fractal Non-Closure"
+    authors:
+      - family-names: Close
+        given-names: Larsen James
+    year: 2026
+    doi: 10.5281/zenodo.21272282
